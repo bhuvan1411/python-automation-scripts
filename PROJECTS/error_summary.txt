@@ -1,0 +1,10 @@
+=== Error and Warning Summary ===
+
+2025-10-18 09:15:47 WARNING Low disk space on /dev/sda1
+2025-10-18 09:16:02 ERROR Failed to load user profile
+2025-10-18 09:16:07 ERROR Timeout while connecting to authentication service
+2025-10-18 09:16:15 WARNING CPU usage above 85%
+2025-10-18 09:16:25 ERROR Failed to delete temp file: permission denied
+
+Total Warnings: 2
+Total Errors: 3

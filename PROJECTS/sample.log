@@ -1,0 +1,13 @@
+2025-10-18 09:15:45 INFO Starting application...
+2025-10-18 09:15:46 INFO Initializing database connection
+2025-10-18 09:15:47 WARNING Low disk space on /dev/sda1
+2025-10-18 09:15:48 INFO Database connection successful
+2025-10-18 09:16:00 INFO Received request from client 192.168.1.24
+2025-10-18 09:16:02 ERROR Failed to load user profile
+2025-10-18 09:16:04 INFO Retrying request
+2025-10-18 09:16:07 ERROR Timeout while connecting to authentication service
+2025-10-18 09:16:12 INFO Request completed with status 200
+2025-10-18 09:16:15 WARNING CPU usage above 85%
+2025-10-18 09:16:18 INFO Cleaning up temporary files
+2025-10-18 09:16:25 ERROR Failed to delete temp file: permission denied
+2025-10-18 09:16:30 INFO Shutting down application
